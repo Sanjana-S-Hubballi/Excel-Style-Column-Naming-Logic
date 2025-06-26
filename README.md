@@ -16,6 +16,5 @@ Excel columns follow an alphabetical naming system:
 
 This program accepts a column number as input and outputs its equivalent Excel column label.
 
-**Input:** Enter column number: 703`
-
-**Output:** Excel column name: AAA`
+- **Input:** `Enter column number: 703`
+- **Output:** `Excel column name: AAA`
